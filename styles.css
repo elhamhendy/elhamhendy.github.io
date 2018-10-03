@@ -1,0 +1,35 @@
+header{
+	
+	background-image: url(Images/Tech.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+}
+header div .col-4{
+	margin-top: 300px;}
+
+nav{
+	background-color: blue;
+
+}
+
+
+section  div  .col-7 {
+	
+	font-style: italic;
+	font-size: 50px;
+	color: blue;}
+	
+
+ 
+
+
+ section div .co-4 {
+
+color: blue; 
+ }
+ h5{
+ 	color: blue;
+ 	
+ }
