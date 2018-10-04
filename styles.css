@@ -13,6 +13,9 @@ nav{
 	background-color: blue;
 
 }
+h2:hover {
+	background-color: gray;
+}
 
 
 section  div  .col-7 {
@@ -29,7 +32,29 @@ section  div  .col-7 {
 
 color: blue; 
  }
+
+ }
+ h3{
+ 	text-align: center;
+ 	font-style: italic;
+ }
  h5{
  	color: blue;
  	
+ }
+ img {
+ 	width: 300px;
+ 	height: 200px;
+ 	border-radius: 80px;
+ 	border: solid blue;
+ 	
+ 	padding: 5px;
+ }
+
+ .tot{
+ 	width: 100%;
+ 	height: 90%; 
+ }
+ input{
+ 	background: rgb(92, 177, 237);
  }
